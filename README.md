@@ -47,7 +47,7 @@ The following models were evaluated:
 **Final Model Selection**: Xg boost achieved the best performance in terms of accuracy and interpretability.
 
  ** For Feature Engineering**:
-   - Create new features (`ingredient_density`, `price_per_ml`, `premium_score`) to enhance predictions
+   - Created new features (`ingredient_density`, `price_per_ml`, `premium_score`) to enhance predictions
 
 ---
 
