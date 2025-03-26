@@ -2,6 +2,7 @@
 
 This repository contains a machine learning project aimed at predicting the price range for energy drinks. Developed for the **CodeX** company, this project leverages advanced machine learning techniques, feature engineering, and MLflow for tracking experiments to deliver accurate and insightful predictions.
 
+
 ---
 
 ## Motivation
@@ -55,3 +56,5 @@ The following models were evaluated:
 
 This project uses **MLflow**   
 Link :  https://dagshub.com/NDN-Surya/Price-Prediction.mlflow
+
+![Code-X Food & Beverage Price Prediction UI](New%20folder/Screenshot%20(101).png)
